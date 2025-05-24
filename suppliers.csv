@@ -1,0 +1,101 @@
+SupplierID,Name,Region,Country,ReliabilityScore,RiskRating
+SUP001,Shaffer PLC,South America,Zambia,0.96,Medium
+SUP002,Howard Inc,Africa,Japan,0.93,Medium
+SUP003,Jimenez-Pierce,North America,South Africa,0.78,Low
+SUP004,Johnson Inc,Africa,Tunisia,0.64,Medium
+SUP005,Ross Inc,Africa,Slovenia,0.74,Medium
+SUP006,"Blake, Clark and Ford",Europe,Guam,0.86,Low
+SUP007,Gilbert PLC,North America,Bahrain,0.86,Low
+SUP008,Rodriguez Group,North America,Thailand,0.83,High
+SUP009,Lowery-Richard,North America,El Salvador,0.71,Medium
+SUP010,"Mcmahon, Carson and Garcia",Africa,Myanmar,0.82,Low
+SUP011,Donaldson Ltd,South America,Uruguay,0.75,High
+SUP012,Harris Ltd,North America,Zambia,0.98,High
+SUP013,Garcia Ltd,Africa,Cape Verde,0.93,Medium
+SUP014,"Craig, Hawkins and Taylor",Europe,Norway,0.88,High
+SUP015,"Colon, Russell and Wilkinson",South America,Zimbabwe,0.69,Low
+SUP016,Paul-Richard,Europe,Hong Kong,0.7,Low
+SUP017,"Schneider, Anderson and Smith",South America,Togo,0.62,Medium
+SUP018,"Vang, Garcia and Sanchez",Africa,Maldives,0.88,High
+SUP019,"Abbott, Rivera and Roberts",Asia,Bahamas,0.64,High
+SUP020,"Walker, Miller and Phillips",South America,Hong Kong,0.77,Medium
+SUP021,Thomas and Sons,Europe,Timor-Leste,0.68,High
+SUP022,Anderson-Martin,Africa,Togo,0.95,High
+SUP023,"Stevenson, Charles and Rodriguez",South America,Tanzania,0.79,High
+SUP024,Wolf PLC,Asia,Congo,0.82,Medium
+SUP025,"Martinez, Randall and Salazar",Asia,Papua New Guinea,0.87,Medium
+SUP026,Ryan-Hernandez,North America,Zambia,0.65,Medium
+SUP027,Mendoza-Douglas,North America,Malaysia,0.84,Low
+SUP028,Ramsey Group,Europe,Liechtenstein,0.81,High
+SUP029,Rogers PLC,South America,Honduras,0.68,High
+SUP030,Koch-Bolton,South America,Russian Federation,0.97,Low
+SUP031,"Chapman, Ward and Rodriguez",North America,Christmas Island,0.83,Low
+SUP032,Kelly-Cordova,South America,Micronesia,0.87,Medium
+SUP033,Keller Ltd,South America,Nauru,0.94,Medium
+SUP034,Ayers-Hawkins,Asia,Samoa,0.84,High
+SUP035,Green-Ellis,North America,Guadeloupe,0.72,Low
+SUP036,"Vance, Rojas and Lopez",Africa,Niue,0.64,Low
+SUP037,"Bailey, Simpson and Noble",North America,Kenya,0.78,Medium
+SUP038,Rodriguez PLC,Africa,Papua New Guinea,0.69,Low
+SUP039,"Wright, Ochoa and Barrett",Asia,Hungary,0.76,Low
+SUP040,Smith LLC,Europe,Dominica,0.94,Medium
+SUP041,Elliott Inc,South America,Latvia,0.73,Medium
+SUP042,"Suarez, Farrell and Mcpherson",Asia,Palestinian Territory,0.65,Low
+SUP043,"Jones, Lara and Lam",South America,Netherlands Antilles,0.74,Medium
+SUP044,"West, Griffith and Lowe",Europe,China,0.95,Medium
+SUP045,"Kelly, Torres and Carter",Europe,New Caledonia,0.71,Medium
+SUP046,Walsh-Daniels,Asia,Croatia,0.85,Low
+SUP047,Olson Inc,Europe,Estonia,0.6,Medium
+SUP048,White-Robertson,Africa,Saint Barthelemy,0.74,High
+SUP049,Delgado Inc,Europe,Tunisia,0.72,Medium
+SUP050,Long-Morris,South America,Martinique,0.66,High
+SUP051,Johnson Inc,South America,Aruba,0.81,Medium
+SUP052,Ponce-Shaw,South America,Jamaica,0.79,Low
+SUP053,Burke Group,South America,Philippines,0.87,Medium
+SUP054,Hall-Evans,Africa,Cayman Islands,0.71,Medium
+SUP055,Joyce-Ramirez,North America,Hong Kong,0.7,High
+SUP056,"Preston, Garner and Mullins",Asia,Liechtenstein,0.67,Low
+SUP057,Collins-Reed,South America,Mozambique,0.69,Medium
+SUP058,Sullivan-Williams,Europe,Grenada,0.82,Medium
+SUP059,"Alexander, Moore and Robertson",South America,American Samoa,0.76,Medium
+SUP060,"Caldwell, Wilcox and Chan",Europe,Turkmenistan,0.63,Low
+SUP061,Reed-Flynn,Europe,Guadeloupe,0.7,High
+SUP062,"Murray, Winters and Thomas",South America,Myanmar,0.7,Medium
+SUP063,Davis-Gregory,Africa,Turkey,0.87,Low
+SUP064,Olson PLC,Europe,Tuvalu,0.88,High
+SUP065,Schwartz PLC,Europe,Hong Kong,0.66,Medium
+SUP066,Benjamin and Sons,South America,Guernsey,0.99,High
+SUP067,Brown Group,Europe,Burkina Faso,0.7,Low
+SUP068,Montgomery Inc,Europe,Palau,0.98,Medium
+SUP069,Blevins PLC,South America,Anguilla,0.76,Medium
+SUP070,"Clark, Bernard and Johnson",South America,Cayman Islands,0.61,High
+SUP071,"Hunt, Harrington and Ray",Asia,Paraguay,0.73,Low
+SUP072,Vaughn and Sons,Africa,Montserrat,0.85,Low
+SUP073,Salas-Paul,Africa,Moldova,0.87,Low
+SUP074,"Logan, Price and Lowe",Europe,Tunisia,0.81,Low
+SUP075,Friedman Group,Africa,Svalbard & Jan Mayen Islands,0.77,Medium
+SUP076,"Ballard, Price and Smith",Europe,Falkland Islands (Malvinas),0.82,Low
+SUP077,Myers-Morris,Asia,Burundi,0.83,Low
+SUP078,Ray-Cantrell,South America,New Caledonia,0.63,High
+SUP079,"Alvarez, Johnson and Shepard",South America,New Zealand,0.74,High
+SUP080,"Griffin, Wong and Marquez",South America,Rwanda,0.69,Low
+SUP081,Newton and Sons,Africa,Sudan,0.91,Low
+SUP082,"Dunn, Patterson and Jimenez",Asia,Micronesia,0.78,Medium
+SUP083,Fox Ltd,Africa,Israel,0.98,Low
+SUP084,Benitez PLC,Africa,Bangladesh,0.76,Low
+SUP085,Wilson Inc,Asia,Christmas Island,0.92,Low
+SUP086,"Cortez, Nicholson and Cook",Asia,Senegal,0.91,Low
+SUP087,Klein-Munoz,Asia,Tonga,0.66,High
+SUP088,Harrison-Mcdonald,Asia,Mongolia,0.8,Low
+SUP089,Calderon-Hunt,South America,Nicaragua,0.87,Medium
+SUP090,"Schmidt, Dorsey and Jones",North America,Tuvalu,0.93,Medium
+SUP091,Clark-Gillespie,North America,Belize,0.73,Low
+SUP092,Aguilar-Stewart,Asia,Latvia,0.69,Medium
+SUP093,Brown PLC,North America,Holy See (Vatican City State),0.88,Low
+SUP094,Lee-Hogan,North America,Qatar,0.92,Medium
+SUP095,Nguyen LLC,Asia,Monaco,0.74,Low
+SUP096,Hughes-Williams,North America,Colombia,0.64,Low
+SUP097,Davis-Vazquez,Africa,Gabon,0.97,Medium
+SUP098,Cruz-Mack,Europe,Ukraine,0.76,Low
+SUP099,"Silva, Thomas and Charles",Europe,Equatorial Guinea,0.8,Low
+SUP100,Cole-Martinez,Asia,Mozambique,0.93,Low
